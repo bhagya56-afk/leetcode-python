@@ -1,71 +1,119 @@
-# 🚀 LeetCode & DSA Learning Journey
+# 🚀 LeetCode & DSA Journey in Python
 
-This repository contains my solutions to Data Structures and Algorithms problems solved using Python.
+Welcome to my Data Structures and Algorithms (DSA) repository!
 
-As a B.Tech Computer Science student, I started practicing DSA to improve my problem-solving skills and strengthen my programming fundamentals.
+This repository contains my solutions to LeetCode problems solved using Python. I started this journey to improve my problem-solving skills, strengthen my understanding of core data structures, and prepare for coding interviews and internships.
 
-## 🛠️ Language
-- Python 3
+## 👨‍💻 About Me
+
+* B.Tech Computer Science Engineering (CSE) Student
+* Learning Data Structures & Algorithms
+* Interested in Software Development, Problem Solving, and Full Stack Development
+* Currently building projects and improving coding skills through consistent practice
+
+---
+
+## 🛠️ Language Used
+
+* Python 3
+
+---
 
 ## 📚 Topics Covered
 
-### Arrays & Strings
-- Two Sum
-- Best Time to Buy and Sell Stock
-- Contains Duplicate
-- Valid Anagram
-- Valid Palindrome
-- Merge Strings Alternately
-- Find the First Occurrence in a String
+### Arrays
+
+* Two Sum
+* Best Time to Buy and Sell Stock
+* Contains Duplicate
+* Majority Element
+* Single Number
+* Move Zeroes
+* Remove Duplicates from Sorted Array
+* Squares of a Sorted Array
+* Valid Mountain Array
+* Intersection of Two Arrays
+
+### Strings
+
+* Valid Anagram
+* Valid Palindrome
+* Merge Strings Alternately
+* Find the First Occurrence in a String
+* Isomorphic Strings
+* Word Pattern
+* Ransom Note
+* Reverse String
+* Reverse Vowels of a String
 
 ### Hash Maps & Sets
-- Majority Element
-- Isomorphic Strings
-- Word Pattern
-- Happy Number
-- Intersection of Two Arrays
-- Ransom Note
-- Single Number
+
+* Contains Duplicate
+* Majority Element
+* Happy Number
+* Ransom Note
 
 ### Two Pointers
-- Move Zeroes
-- Remove Duplicates from Sorted Array
-- Reverse String
-- Squares of a Sorted Array
-- Valid Mountain Array
-- Reverse Vowels of a String
-- Container With Most Water
+
+* Move Zeroes
+* Reverse String
+* Reverse Vowels of a String
+* Container With Most Water
 
 ### Stack & Queue
-- Valid Parentheses
-- Implement Queue using Stacks
+
+* Valid Parentheses
+* Implement Queue Using Stacks
 
 ### Linked Lists
-- Linked List Cycle
-- Reverse Linked List
-- Middle of the Linked List
-- Remove Linked List Elements
-- Palindrome Linked List
 
-## 💡 Skills Gained
-- Problem Solving
-- Python Programming
-- Hash Maps (Dictionaries)
-- Sets
-- Two Pointer Technique
-- Stack Operations
-- Queue Implementation
-- Linked List Manipulation
-- Algorithm Optimization
-- Debugging
+* Linked List Cycle
+* Reverse Linked List
+* Middle of the Linked List
+* Remove Linked List Elements
+* Palindrome Linked List
 
-## 🎯 Current Goal
-Continuing my DSA journey and preparing for internships, coding interviews, and software development roles.
+---
 
-## 🌱 Next Topics
-- Binary Search
-- Sliding Window
-- Trees (BFS & DFS)
-- Recursion
-- Dynamic Programming
-- Graphs
+## 🎯 Skills Developed
+
+* Problem Solving
+* Algorithmic Thinking
+* Python Programming
+* Hash Maps (Dictionaries)
+* Sets
+* Two Pointer Technique
+* Stack Operations
+* Queue Implementation
+* Linked List Manipulation
+* Time Complexity Analysis
+* Debugging & Optimization
+
+---
+
+## 📈 Progress
+
+* Solved 25+ LeetCode Problems
+* Practiced Multiple DSA Patterns
+* Built Consistency in Daily Coding
+* Improved Understanding of Core Data Structures
+
+---
+
+## 🌱 Next Learning Goals
+
+* Binary Search
+* Sliding Window
+* Trees (DFS & BFS)
+* Recursion
+* Dynamic Programming
+* Graph Algorithms
+* Full Stack Development
+
+---
+
+## ⭐ Connect With Me
+
+I am continuously learning and improving my coding skills. Feedback, suggestions, and discussions are always welcome!
+
+Happy Coding! 🚀
